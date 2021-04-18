@@ -6,7 +6,7 @@ Voici la Traduction du Panel Pterodactyl pour la 1.1 , la nouvelle version .
 # Comment l'installer
 
 Etape 1 :
-Installer la traduction fr en .zip ( c'est normal que le dossier que vous venez de s'installer s'appelle "en" .
+Installer la traduction fr en .zip ( c'est normal que le dossier que vous venez de s'installer s'appelle "en" ).
 
 Etape 2 :
 Ensuite connecter en vous a votre FTP ou SFTP et Allez ici : (Votre Root)/pterodactyl/resources/lang
